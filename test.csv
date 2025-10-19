@@ -1,4 +1,4 @@
-locality,year,Average_takings_per_room_night_occupied
+locality,month,Average_takings_per_room_night_occupied
 BIGDESERT,7,220919
 Port sea,7,102001
 SWANBAY,7,144.81199
@@ -14,6 +14,7 @@ ALPHINGTON,7,1000000.0
 ALTONA,7,628500.0
 ALTONA EAST,7,571000.0
 ALTONA MEADOWS,7,385000.0
+
 
 
 
