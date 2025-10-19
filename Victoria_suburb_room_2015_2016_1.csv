@@ -1,7 +1,7 @@
 ﻿locality,region,Month,Room_nights_occupied,Room_nights_available,Takings_from_accommodation,Average_takings_per_room_night_occupied
 BIG DESERT,Melbourne,7,3219.00,4960.00,464016.00,220
-Thornbury,Melbourne,July,,,,
-Essendon - Aberfeldie,Melbourne,7,3680.00,5301.00,532882.00,144.81
+PORT SEA,Melbourne,July,,,,102
+SWAN BAY,Melbourne,7,3680.00,5301.00,532882.00,144.81
 Flemington,Melbourne,July,,,,
 Moonee Ponds,Melbourne,July,,,,
 Carlton,Melbourne,July,13696.00,21638.00,2205420.00,161.03
@@ -1271,5 +1271,6 @@ Yea,Upper Yarra,December,,,,
 Wodonga,Murray East,December,3852.00,7688.00,518053.00,134.50
 Phillip Island,Phillip Island,December,,,,
 Wonthaggi - Inverloch,Phillip Island,December,,,,
+
 
 
